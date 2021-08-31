@@ -3,7 +3,8 @@ import data from sqlalchemy then compare the different tempertures of junevs dec
 
 Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 in conclusion june is a lot hotter than december
-
+https://github.com/jondavid14/surfs_up/blob/main/June.PNG
+https://github.com/jondavid14/surfs_up/blob/main/December.PNG
 
 
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
